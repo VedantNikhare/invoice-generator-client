@@ -1,5 +1,6 @@
 ## Arc Invoice - Invoice Generator
-Arc Invoice is a feature-rich invoice generator web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It enables users to effortlessly create, manage, and download various financial documents like invoices, receipts, estimates, and quotations in PDF format. The project incorporates cutting-edge technologies such as ReactJS, Redux for state management, NodeJS for the backend, ViteJS, Typescript, and Tailwind CSS for a seamless and responsive user experience across all devices.
+Arc Invoice is a feature-rich invoice generator web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It enables users to effortlessly create, manage, and download various financial documents like invoices, receipts, estimates, and quotations in PDF format. The project incorporates cutting-edge technologies such as ReactJS, Redux for state management, NodeJS for the backend, ViteJS, Typescript, and Tailwind CSS for a seamless and responsive user experience across all devices. 
+[Live Link](https://arc-invoice-tool.vercel.app/)
 
 ## Key Features
 1. Generate and Send/Download PDF Documents: Create professional invoices, receipts, estimates, and quotations in PDF format for easy sharing and record-keeping.
