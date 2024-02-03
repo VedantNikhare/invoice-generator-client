@@ -19,6 +19,8 @@ Arc Invoice is a feature-rich invoice generator web application built using the 
 
 8. Authentication with JSON Web Token (JWT) and Google Auth: Secure user authentication using JWT for standard authentication and Google Auth for convenient login/signup.
 
+9. Responsive Design: The web application is responsive on all devices, ensuring a seamless user experience on mobiles, tablets, and desktops.
+
 ## Technologies Used
 1. ReactJS: A powerful JavaScript library for building user interfaces.
 
